@@ -194,3 +194,5 @@ This is the Chapel port of the [C reference implementation](https://github.com/S
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
